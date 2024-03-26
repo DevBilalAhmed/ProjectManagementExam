@@ -10,7 +10,7 @@ The Exam uses a mock case, to see how we respond to the tasks based on theory. I
 
 ## Where to improve
 
-Based on my own text, in hindsight i believe i should have had a more thorough on some of the tasks.
+Based on my own text, in hindsight i believe i should have been more thorough on some of the tasks.
 
 This is again theory only, but i wish i went into more detail about the end-user feedback being a crucial part for both software, but also the design through each itereation of the project.
 
